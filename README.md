@@ -1,2 +1,2 @@
 # WizardofOz
-@Lucas @Sid document how it is configured and works here
+FPP running at 192.168.2.2 but the hostname is messed up and web page is not accessible.
