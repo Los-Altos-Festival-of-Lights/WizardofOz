@@ -40,7 +40,7 @@ that animate the wizard's arms and torso.
 The yellow extension cord feeds the control box. 
 The power distribution within the box is still TBD, but 
 - there is a 12v to 5v USB converter powering the Raspberry Pi
-- the pixel controller appears to operate directly from the 12v. 
+- the pixel controller operates directly from the 12v. 
 This implies 12v LED strings, TBD.
 - the DMX controller power is unknown
 - there is a small centrifugal fan drawing air through the enclosure.
